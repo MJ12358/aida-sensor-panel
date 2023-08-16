@@ -1,6 +1,11 @@
 # aida-sensor-panel
 
-My AIDA64 Sensor Panel.
+This repo contains **my** sensor panel plus additional assets for modifying a sensor panel, including:
+
+- backgrounds
+- fonts
+- gauges
+- logos
 
 ## Description
 
@@ -16,6 +21,6 @@ The hardware used includes:
 
 ## Usage
 
-The directory of the fonts and background may need to be changed when importing the `.sensorpanel` file.
+The directory of any assets may need to be changed when importing `my.sensorpanel`.
 
 [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) will need to be downloaded to get FPS information.
